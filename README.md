@@ -25,7 +25,7 @@ This project is a 3D object manipulation application using OpenGL, allowing tran
 
 ## Installation
 
-
+- Open with Visual Studio using GPU.sln
 
 ## Usage
 
